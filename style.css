@@ -1,0 +1,17 @@
+
+.heading {
+    color: lightcoral;
+    text-align: center;
+    background-color: lightskyblue;
+    margin: 10px;
+}
+
+
+ul {
+    color: rgb(129, 46, 177);
+    font-family: cursive;
+    font-size: 20px;
+}
+ul .meat {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
